@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm SuJeong2 👋
-### 🌱 I’m currently learning Java, Front-End
-### 📫 How to reach me: lee.sujeong10111@gmail.com
+🌱 I’m currently learning Java, Front-End<br>
+📫 How to reach me: lee.sujeong10111@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuJeong2)
 
