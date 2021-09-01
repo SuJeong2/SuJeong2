@@ -9,6 +9,9 @@
 cs
 
 <!--
+//stats 표시
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SuJeong2)](https://github.com/SuJeong2/github-readme-stats)
+
 **SuJeong2/SuJeong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
